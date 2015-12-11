@@ -1,6 +1,6 @@
-languages:
-   JavaScript: true
-   PHP: true
+engines:
+  eslint:
+    enabled: true
 exclude_paths:
 - "vendor/*"
 - "test/*"
